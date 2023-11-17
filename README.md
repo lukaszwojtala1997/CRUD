@@ -1,5 +1,5 @@
 # Project Name 
-# Rental Store
+Rental Store
 
 ## Table of contents
 * [General info](#general-info)
