@@ -4,7 +4,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Features](#features)
 
 ## General info
 Spring Boot, REST API, CRUD. The app was built with Maven. The application uses the H2 database. The application has been tested with POSTMAN.
