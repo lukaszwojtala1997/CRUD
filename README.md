@@ -11,6 +11,3 @@ Spring Boot, REST API, CRUD. The app was built with Maven. The application uses 
 
 ## Screenshots
 ![Screenshot_22](https://user-images.githubusercontent.com/75620370/111297572-0b4b7e00-864e-11eb-961a-7c737ea6d0f1.png)
-
-## Features
-In the future, I will add a frontend to the application. New products will also be added to the rental shop.
